@@ -1,0 +1,39 @@
+# Build output
+Debug/
+Release/
+build/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+
+
+# STM32CubeIDE
+.metadata/
+.settings/
+*.launch
+
+
+# Keil
+Objects/
+Listings/
+*.uvguix.*
+*.uvoptx
+*.uvprojx.user
+
+
+# VS Code
+.vscode/
+
+
+# Backup files
+*.bak
+*.tmp
+*.log
+
+
+# OS files
+.DS_Store
+Thumbs.db
